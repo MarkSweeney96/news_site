@@ -3,7 +3,7 @@ This repository contains a news stories site I designed and developed in my firs
 It uses HTML, CSS, JavaScript, PHP and an SQL database. All the news stories are live text directly from the SQL database. The images are all hardcoded.
 
 To install this project you will need to:
-1. Install a local Apache Web Server and a MySQL database server. <a href="https://www.apachefriends.org/index.html">XAMPP</a> is a good piece of software that install both.   
+1. Install a local Apache Web Server and a MySQL database server. <a href="https://www.apachefriends.org/index.html">XAMPP</a> is a good piece of software that installs both.   
 2. Create a new database called 'news' and import the <i>news.sql</i> file located in this repository.
 3. <b>NB:</b> Make sure the classes/DB.php file has the correct information for your local web server and database.
 
