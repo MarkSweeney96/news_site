@@ -1,0 +1,133 @@
+/* 
+CREDIT: This grid was created by one of my lecturers. Info below.
+NAME: Stefan Paz Berrios
+INFO: http://www.iadt.ie/about/staff/stefan-paz-berrios 
+CONTACT: stefan.pazberrios@iadt.ie 
+*/
+
+.container{
+    width: 1200px;
+    background-color: white;
+    margin: auto;
+}
+
+.one
+{
+    width:80px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.two{
+    width:180px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.three{
+    width:280px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.four{
+    width:380px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.five{
+    width:480px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.six{
+    width:580px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.seven{
+    width:680px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.eight{
+    width:780px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.nine{
+    width:880px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.ten{
+    width:980px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.eleven{
+    width:1080px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.twelve{
+    width:1180px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px; 
+}
+
+/*alpha and omega source: https://960.gs*/
+
+.alpha{
+    margin-left: 0;
+}
+
+.omega{
+     margin-right: 0;
+}
+
+
+/*
+clear Fix source: http://sonspring.com/journal/clearing-floats
+*/
+.clear{
+    clear:both;
+    display:block;
+    overflow:hidden;
+    visibility: hidden;
+    width: 0;
+    width: 0;
+}
+   

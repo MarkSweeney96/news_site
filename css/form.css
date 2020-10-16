@@ -1,0 +1,113 @@
+/*
+Author: Mark Sweeney
+Date: 2017-31-03
+*/
+
+
+    .story-form{
+    display: block;
+    position: fixed;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+form table td{
+    margin: 20px;
+}
+
+label, input,tr {
+    display: block;
+}
+
+label,tr,td {
+    margin-bottom: 5px;
+}
+
+label{padding-right: 5px;}
+
+.button{
+/*    margin-left: 20px;*/
+    margin-right: 20px;
+}
+
+input {
+    width: auto;
+    height: 25px;
+    font-size: 20px;
+}
+
+
+
+input[type="text"],input[type="date"],input[type="time"],input[type="textarea"] {
+  padding: 10px;
+  border: none;
+  border-bottom: solid 2px #c9c9c9;
+  border-bottom: solid 2px #344965;
+  width: 1060px;
+}
+
+textarea{
+ width: 1050px;
+  height: 160px;
+}
+
+.button {
+    background-color: #344965;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    height: auto;
+    border-radius: 5px;
+}
+.submit{margin-left: 425px;}
+
+.button:hover,.button:active {
+    background-color: #346565;
+    color: white;
+}
+
+.error{
+    font-size: 12px;
+    color: red;
+    font-weight: bold;
+    padding-left: 90px;
+}
+
+.add-story-heading{width: 180px;}
+
+label{min-width: 20px;}
+
+*::-webkit-input-placeholder {
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Open Sans',serif;
+}
+
+select,option {
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Open Sans',serif;
+    border-color: transparent;
+    border-bottom: solid 2px #344965;
+    padding: 10px;
+    width: 1080px;
+}
+
+textarea table {border-color: transparent;}
+
+td label {min-width: 80px;} 
+
+form textarea { 
+    border: none;
+    border-color: #344965;
+    border: solid 2px #344965;
+    padding: 10px;
+    width: 1060px;
+}
