@@ -28,7 +28,7 @@ You can browse through all of my code above and see some screenshots of the proj
 <img src="https://raw.githubusercontent.com/MarkSweeney96/news_site/master/screenshots/updated-news-story.png" alt="updated-news-story" height="450">
 
 
-<b>Sources</b>
-My news stories are from various different news outlets.
-Icons: https://thenounproject.com.
+<b>Sources</b><br>
+My news stories are from various different news outlets.<br>
+Icons: https://thenounproject.com.<br>
 NY Times image: https://unsplash.com/photos/cWhLlFB2IGI
