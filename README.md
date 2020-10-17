@@ -1,5 +1,5 @@
 # News Site
-This repository contains a news stories site I designed and developed in my first year of college.
+This repository contains a news site I designed and developed in my first year of college.
 It uses HTML, CSS, JavaScript, PHP and an SQL database. All the news stories are live text directly from the SQL database. The images are all hardcoded.
 
 To install this project you will need to:
